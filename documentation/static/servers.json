@@ -68,6 +68,18 @@
     ]
   },
   {
+    "id": "asms",
+    "name": "asms",
+    "description": "Get SMS verification codes on one-time phone numbers and rent numbers that receive SMS",
+    "url": "https://asms.ai/mcp",
+    "link": "https://asms.ai/agents",
+    "installation_notes": "Hosted remote server. Sign in with your asms account via OAuth on first connect.",
+    "is_builtin": false,
+    "endorsed": false,
+    "environmentVariables": [],
+    "type": "streamable-http"
+  },
+  {
     "id": "autovisualiser",
     "name": "Auto Visualiser",
     "description": "Automatic data visualisation via MCP-UI",
